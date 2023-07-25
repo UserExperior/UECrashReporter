@@ -1,5 +1,5 @@
-framework module CrashReporter {
-  umbrella header "CrashReporter.h"
+framework module UECrashReporter {
+  umbrella header "UECrashReporter.h"
 
   export *
   module * { export * }

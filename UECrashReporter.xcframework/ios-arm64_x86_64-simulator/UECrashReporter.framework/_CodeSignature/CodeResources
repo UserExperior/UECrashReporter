@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CrashReporter.h</key>
-		<data>
-		bAB53PFfoGLK2W1l6ULmzbiaydU=
-		</data>
 		<key>Headers/PLCrashFeatureConfig.h</key>
 		<data>
 		n52MK11FnpreEtuoKRTG8TrBOA8=
@@ -92,28 +88,21 @@
 		<data>
 		yJB6jCUNlu0cnvq8C2sF6t1gDtc=
 		</data>
+		<key>Headers/UECrashReporter.h</key>
+		<data>
+		bAB53PFfoGLK2W1l6ULmzbiaydU=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		UR7tXu1EMhcIK6PB4Lsff+SxcV0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		GevHSzc93CvcJCM//BXzSveGpGE=
+		DFXMtTmass7/7tCqbdIW7dE0H0I=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CrashReporter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bAB53PFfoGLK2W1l6ULmzbiaydU=
-			</data>
-			<key>hash2</key>
-			<data>
-			tkaZvMAOPhB28YtZS39i6Ja12cqb1XwcZSjzOIp44YM=
-			</data>
-		</dict>
 		<key>Headers/PLCrashFeatureConfig.h</key>
 		<dict>
 			<key>hash</key>
@@ -345,15 +334,26 @@
 			83lSiMTxSMjOEnuD5nLWABoJKG/yc8G9UIKT8Mm6Ngg=
 			</data>
 		</dict>
+		<key>Headers/UECrashReporter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bAB53PFfoGLK2W1l6ULmzbiaydU=
+			</data>
+			<key>hash2</key>
+			<data>
+			tkaZvMAOPhB28YtZS39i6Ja12cqb1XwcZSjzOIp44YM=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GevHSzc93CvcJCM//BXzSveGpGE=
+			DFXMtTmass7/7tCqbdIW7dE0H0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			iru6hi0cnStthQ0L2aQ0Hxz0/f4aP3jQgCrN0ok2aUM=
+			52Wx9nAl2Q3Eja03/p/ytBzHTzGW+J4MYB7Jr4o5Fec=
 			</data>
 		</dict>
 	</dict>
