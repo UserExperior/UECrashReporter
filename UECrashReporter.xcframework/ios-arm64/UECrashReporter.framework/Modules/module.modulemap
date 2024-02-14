@@ -1,8 +1,0 @@
-framework module UECrashReporter {
-  umbrella header "UECrashReporter.h"
-
-  export *
-  module * { export * }
-
-  link framework "Foundation"
-}

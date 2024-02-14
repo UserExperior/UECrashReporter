@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let version = "1.0.7"
+let version = "1.0.8"
 let checksum = "d75dc55eb20139713b8649ddea0d7b323fdd69116e39da2212dc5fca93d730c8"
 let repoName = "UECrashReporter"
 
